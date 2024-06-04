@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "DeluxeOT_client",
+	"clientFolder": "DeluxeOT",
 	"newClientUrl" : "https://github.com/Satsare/canary-launcher/releases/download/1.0.0/client-to-update.zip",
 	"clientExecutable": "DeluxeOT.exe"
 }
